@@ -1,0 +1,44 @@
+body{
+  color: #141414;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+
+}
+
+.blueBody{
+  background-color: #008DD5;
+}
+
+.yellowBody{
+    background-color: #FAF0CF;
+}
+
+.redBody{
+  background-color: #DD1C1A;
+}
+
+.purpleBody{
+  background-color: #8E44AD;
+}
+
+.text-muted{
+  color: #696969;
+  opacity: 0.5;
+}
+
+.whiteText{
+  color: #FFFFFF
+}
+
+.text-thin{
+  font-weight:100;
+
+}
+
+.title-super{
+  font-size: 60px;
+}
+
+.title-logo{
+  margin-top: 20px;
+}
